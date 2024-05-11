@@ -7,3 +7,4 @@ Welcome to Alchemy Games! This repository aims to collect games that are connect
 ### Learn Solidity
 - **Chapter 5 - Solidity**
   - **Mapping => Contract-Puzzles**
+  - **Events => Local-Hardhat-Games**
